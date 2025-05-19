@@ -1,6 +1,4 @@
 # Finn
-<ul>
-<li>My Personal Repository.<li>
-<li>New Learner.<li>
-<li>Practicing codes.<li>
-<ul>
+My Personal Repository.<br>
+New Learner.<br>
+Practicing codes.
